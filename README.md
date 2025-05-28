@@ -40,11 +40,6 @@ To provide data-driven insights into workforce behavior, helping HR teams take s
 - DAX (for KPIs and metrics)
 - Excel/CSV (data cleaning)
 
----
-
-## 📸 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
-
 
 ---
 
